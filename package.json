@@ -9,5 +9,7 @@
   },
   "author": "Your Name",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "ci-cd-pipeline-demo": "file:"
+  }
 }
